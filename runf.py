@@ -1,0 +1,22 @@
+import subprocess
+import time
+
+subprocess.Popen(["python3","f1.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f2.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f3.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f4.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f5.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f6.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f7.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f8.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f9.py"])
+time.sleep(120)
+subprocess.Popen(["python3","f10.py"])
